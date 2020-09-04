@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  font-family: sans-serif;
+
+}
+
+body{
+  --twitter-color:rgba(29,161,242,1.00);
+  --background-color:#eBf5fe;
+}
